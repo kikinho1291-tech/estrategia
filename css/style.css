@@ -1,0 +1,95 @@
+#topbar { 
+    background-color: #09947d;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+#topbar span {
+    color: white;
+    font-weight:600;
+}
+
+.margende10{
+    margin-left: 20px;
+}
+
+#info-correo-telefono{ 
+    font-size: 14px;
+}
+
+#hero{ 
+    padding-top: 80px;
+    padding-bottom: 80px;
+    background-color:#09947805 ;
+}
+
+.img-hero{
+    border-radius: 20px;
+}
+
+.text-v{
+    text-align: center;
+}
+
+.icono{
+    background-color: #09947d;
+    padding: 20px;
+    border-radius: 55px;
+    color: #ffff;
+}
+
+.titulo-v{ 
+    padding-top: 25px;
+}
+
+.titulo-about{
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+.texto-col1{
+    text-align: left;
+}
+
+.numeros{
+    font-size: 60px;
+    color: #09947d;
+    font-weight: lighter;
+}
+
+.letras-gris{
+    color: #444444;
+    text-transform: capitalize;
+}
+
+
+#news{
+    background-color:#09947805;
+    padding-top: 80px;
+    padding-bottom: 80px;
+    text-align: center;
+}
+
+#foot{
+    background-color:#edf6f4;
+    padding-top: 50px;
+    
+}
+
+.direccion{
+    font-size: 12px;
+}
+
+.listas-f{
+    list-style-type:none;
+    font-size: 12px;
+    align-items: flex-start;
+}
+
+hr{
+    padding-top: 25px;
+}
+
+.ft{
+    text-align: center;
+}
